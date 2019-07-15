@@ -377,6 +377,37 @@ $('.bg-cover').css('background-image', 'url(/medias/banner/' + new Date().getDay
     
     
     <div class="carousel-item amber white-text carousel-post bg-cover"
+            style="background-image: url('https://s2.ax1x.com/2019/07/15/ZTlhmd.jpg');">
+        <div class="container">
+            <div class="row">
+                <div class="col s10 offset-s1">
+                    <div class="title center-align">三角函数专题（一）</div>
+                    <div class="description center-align">
+                    
+                        
+今天和大家分享一下：三角函数的化简类公式和解答题的解题思路。明天我会针对今天所涉及的题型进行视频讲解，所以同学们今天务必要把如下的公式掌握好。
+
+一、诱导公式
+二、两角和差的展开公式
+三、三角常用特殊值
+
+四、基本关系式
+五、二倍角公式
+
+                    
+                    </div>
+                    <div class="cover-btns">
+                        <a href="/2018/06/14/san-jiao-han-shu-zhuan-ti-yi/" class="waves-effect waves-light btn" target="_blank">
+                            <i class="icon fa fa-eye fa-fw"></i>阅读更多
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <div class="carousel-item amber white-text carousel-post bg-cover"
             style="background-image: url('https://s2.ax1x.com/2019/07/15/ZTNdde.png');">
         <div class="container">
             <div class="row">
@@ -467,6 +498,41 @@ $(function () {
                     
 
                     
+                        
+
+<link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
+<div class="music-player">
+    
+    <div class="title center-align">
+        <i class="fa fa-music"></i>&nbsp;&nbsp;听听音乐
+    </div>
+    
+    <div class="row">
+        <div class="col l8 offset-l2 m10 offset-m1 s12">
+            <div id="aplayer" class="music"></div>
+        </div>
+    </div>
+</div>
+
+<script src="/libs/aplayer/APlayer.min.js"></script>
+<script>
+$(function () {
+    new APlayer({
+        container: document.getElementById('aplayer'),
+        fixed: 'false' === 'true',
+        autoplay: 'false' === 'true',
+        theme: '#42b983',
+        loop: 'all',
+        order: 'list',
+        preload: 'auto',
+        volume: Number('0.7'),
+        listFolded: 'false' === 'true',
+        listMaxHeight: '',
+        audio: JSON.parse('[{"name":"big big world","artist":"Emilia Rydberg","url":"http://mp3.9ku.com/hot/2009/10-13/197106.mp3","cover":"http://aliyunimg.9ku.com/pic/gstx/1/8138.jpg"},{"name":"As Long As You Love Me","artist":"Backstreet Boys","url":"http://mp3.9ku.com/hot/2004/07-13/1031.mp3","cover":"http://aliyunimg.9ku.com/pic/gstx/1/2357.jpg"},{"name":"Lemon Tree","artist":"Fools Garden","url":"http://mp3.9ku.com/hot/2009/10-13/197254.mp3","cover":"http://aliyunimg.9ku.com/pic/gstx/1/8211.jpg"}]')
+    });
+});
+</script>
+                    
 
                     
 
@@ -550,41 +616,6 @@ $(function () {
     <!-- 所有文章卡片 -->
     <article id="articles" class="container articles">
         <div class="row article-row">
-            
-            <div class="article col s12 m6 l4" data-aos="zoom-in">
-                <div class="card">
-                    <a href="/2019/07/15/hello-world/">
-                        <div class="card-image">
-                            
-                            
-                            <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="Hello World">
-                            
-                            <span class="card-title">Hello World</span>
-                        </div>
-                    </a>
-
-                    <div class="card-content article-content">
-                        <div class="summary block-with-text">
-                            
-                                Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hex
-                            
-                        </div>
-                        <div class="publish-info">
-                            <span class="publish-date">
-                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-07-15
-                            </span>
-                            <span class="publish-author">
-                                
-                                <i class="fa fa-user fa-fw"></i>
-                                冯老师
-                                
-                            </span>
-                        </div>
-                    </div>
-
-                    
-                </div>
-            </div>
             
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
@@ -720,7 +751,7 @@ $(function () {
 
             
                 &nbsp;<i class="fa fa-area-chart"></i>&nbsp;站点总字数:&nbsp;
-                <span class="white-color">652</span>
+                <span class="white-color">452</span>
             
 
             
