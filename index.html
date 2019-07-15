@@ -467,77 +467,7 @@ $(function () {
                     
 
                     
-                        
 
-<link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
-<div class="music-player">
-    
-    <div class="title center-align">
-        <i class="fa fa-music"></i>&nbsp;&nbsp;听听音乐
-    </div>
-    
-    <div class="row">
-        <div class="col l8 offset-l2 m10 offset-m1 s12">
-            <div id="aplayer" class="music"></div>
-        </div>
-    </div>
-</div>
-
-<script src="/libs/aplayer/APlayer.min.js"></script>
-<script>
-$(function () {
-    new APlayer({
-        container: document.getElementById('aplayer'),
-        fixed: 'false' === 'true',
-        autoplay: 'false' === 'true',
-        theme: '#42b983',
-        loop: 'all',
-        order: 'list',
-        preload: 'auto',
-        volume: Number('0.7'),
-        listFolded: 'false' === 'true',
-        listMaxHeight: '',
-        audio: JSON.parse('[{"name":"big big world","artist":"Emilia Rydberg","url":"http://mp3.9ku.com/hot/2009/10-13/197106.mp3","cover":"http://aliyunimg.9ku.com/pic/gstx/1/8138.jpg"},{"name":"As Long As You Love Me","artist":"Backstreet Boys","url":"http://mp3.9ku.com/hot/2004/07-13/1031.mp3","cover":"http://aliyunimg.9ku.com/pic/gstx/1/2357.jpg"},{"name":"Lemon Tree","artist":"Fools Garden","url":"http://mp3.9ku.com/hot/2009/10-13/197254.mp3","cover":"http://aliyunimg.9ku.com/pic/gstx/1/8211.jpg"}]')
-    });
-});
-</script>
-                    
-
-                    
-                        <link rel="stylesheet" href="/libs/dplayer/DPlayer.min.css">
-<div class="video-player">
-    
-    <div class="title center-align">
-        <i class="fa fa-video-camera"></i>&nbsp;&nbsp;精彩视频
-    </div>
-    
-    <div class="row">
-        <div class="col l8 offset-l2 m10 offset-m1 s12">
-            <div id="dplayer" class="dplayer-video"
-                    ></div>
-        </div>
-    </div>
-</div>
-
-<script src="/libs/dplayer/DPlayer.min.js"></script>
-<script>
-    $(function () {
-        new DPlayer({
-            container: document.getElementById('dplayer'),
-            autoplay: 'false' === 'true',
-            theme: '#42b983',
-            loop: 'true' === 'true',
-            lang: 'zh-CN' === 'zh-CN' ? 'zh-cn' : 'en',
-            preload: 'auto',
-            volume: Number('0.7'),
-            video: {
-                url: 'https://apd-4278009784f9f6a3b24fda3cf047afa2.v.smtcdns.com/vhot2.qqvideo.tc.qq.com/AM5YkF78f6AzCjGMG_PE-ANQnDbeNPIDwrKSy9saPSZo/uwMROfz2r5zAoaQXGdGnC2dfJ7xBbC6Xu5OsXbmLfLunH5lr/d0694lpvt97.p712.1.mp4?sdtfrom=v1010&guid=fe9a960473d515a999130e6bf9a23685&vkey=D52141515DAB9B97379F26283D379950C8C3F569932B39FB39D41F0120E3B664294E3644F98895DF53FD43B872AC08BAB991684F03126BD90CB18C9808184AAAE8DDF6A37E44B59958486D81D2833935784D602C4B32E0D676FD5524F9648454C46D6C1BDE8D27AB101B9791424E29AD63C5B940AD3D25E108FB89442CBDECDE',
-                pic: '',
-                thumbnails: ''
-            }
-        });
-    });
-</script>
                     
 
                     <div id="recommend-sections" class="recommend">
@@ -620,6 +550,41 @@ $(function () {
     <!-- 所有文章卡片 -->
     <article id="articles" class="container articles">
         <div class="row article-row">
+            
+            <div class="article col s12 m6 l4" data-aos="zoom-in">
+                <div class="card">
+                    <a href="/2019/07/15/hello-world/">
+                        <div class="card-image">
+                            
+                            
+                            <img src="/medias/featureimages/12.jpg" class="responsive-img" alt="Hello World">
+                            
+                            <span class="card-title">Hello World</span>
+                        </div>
+                    </a>
+
+                    <div class="card-content article-content">
+                        <div class="summary block-with-text">
+                            
+                                Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hex
+                            
+                        </div>
+                        <div class="publish-info">
+                            <span class="publish-date">
+                                <i class="fa fa-clock-o fa-fw icon-date"></i>2019-07-15
+                            </span>
+                            <span class="publish-author">
+                                
+                                <i class="fa fa-user fa-fw"></i>
+                                冯老师
+                                
+                            </span>
+                        </div>
+                    </div>
+
+                    
+                </div>
+            </div>
             
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
@@ -755,7 +720,7 @@ $(function () {
 
             
                 &nbsp;<i class="fa fa-area-chart"></i>&nbsp;站点总字数:&nbsp;
-                <span class="white-color">452</span>
+                <span class="white-color">652</span>
             
 
             
