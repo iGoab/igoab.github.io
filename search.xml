@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/07/15/hello-world/"/>
+      <url>/2019/07/15/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>三角函数专题（一）</title>
+      <link href="/2018/06/14/san-jiao-han-shu-zhuan-ti-er/"/>
+      <url>/2018/06/14/san-jiao-han-shu-zhuan-ti-er/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>今天和大家分享一下：三角函数的<strong><big>化简类公式</big></strong>和解答题的<strong><big>解题思路</big></strong>。明天我会针对今天所涉及的题型进行<strong><big>视频讲解</big></strong>，所以同学们今天务必要把如下的公式掌握好。</p></blockquote><h2 id="一、诱导公式"><a href="#一、诱导公式" class="headerlink" title="一、诱导公式"></a>一、诱导公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZTlyY6.png" alt="三角函数诱导公式"></p><h2 id="二、两角和差的展开公式"><a href="#二、两角和差的展开公式" class="headerlink" title="二、两角和差的展开公式"></a>二、两角和差的展开公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT1sBj.png" alt="两角和差的展开公式"></p><h2 id="三、三角常用特殊值"><a href="#三、三角常用特殊值" class="headerlink" title="三、三角常用特殊值"></a>三、三角常用特殊值</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT1bU1.png" alt="三角常用特殊值1"></p><p><img src="https://s2.ax1x.com/2019/07/15/ZT1X8K.png" alt="三角常用特殊值2"></p><h2 id="四、基本关系式"><a href="#四、基本关系式" class="headerlink" title="四、基本关系式"></a>四、基本关系式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT3pbd.png" alt="基本关系式"></p><h2 id="五、二倍角公式"><a href="#五、二倍角公式" class="headerlink" title="五、二倍角公式"></a>五、二倍角公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT3A8f.png" alt="二倍角公式"></p><h2 id="六、降幂公式"><a href="#六、降幂公式" class="headerlink" title="六、降幂公式"></a>六、降幂公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT3Man.png" alt="降幂公式"></p><blockquote><p><strong>注意</strong>：降幂公式主要是由二倍角公式进行推出的，同学们可以尝试进行推导，有问题可以留言。但降幂公式在解题过程中极其重要，大家必须学会灵活运用）</p></blockquote><h2 id="七、辅助角公式"><a href="#七、辅助角公式" class="headerlink" title="七、辅助角公式"></a>七、辅助角公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT3BPx.png" alt="辅助角公式"></p><h2 id="八、解题思路"><a href="#八、解题思路" class="headerlink" title="八、解题思路"></a>八、解题思路</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT8AoR.png" alt="解题思路"></p><h2 id="九、练习题"><a href="#九、练习题" class="headerlink" title="九、练习题"></a>九、练习题</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT8uQO.png" alt="练习题"></p><blockquote><p>大家课后按照上面的思路把这个练习题尝试着解出来，明天在视频中我会对此题进行解答！！</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 三角函数 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 三角函数 </tag>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 函数 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>三角函数专题（一）</title>
+      <link href="/2018/06/14/san-jiao-han-shu-zhuan-ti-yi/"/>
+      <url>/2018/06/14/san-jiao-han-shu-zhuan-ti-yi/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>今天和大家分享一下：三角函数的<strong><big>化简类公式</big></strong>和解答题的<strong><big>解题思路</big></strong>。明天我会针对今天所涉及的题型进行<strong><big>视频讲解</big></strong>，所以同学们今天务必要把如下的公式掌握好。</p></blockquote><h2 id="一、诱导公式"><a href="#一、诱导公式" class="headerlink" title="一、诱导公式"></a>一、诱导公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZTlyY6.png" alt="三角函数诱导公式"></p><h2 id="二、两角和差的展开公式"><a href="#二、两角和差的展开公式" class="headerlink" title="二、两角和差的展开公式"></a>二、两角和差的展开公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT1sBj.png" alt="两角和差的展开公式"></p><h2 id="三、三角常用特殊值"><a href="#三、三角常用特殊值" class="headerlink" title="三、三角常用特殊值"></a>三、三角常用特殊值</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT1bU1.png" alt="三角常用特殊值1"></p><p><img src="https://s2.ax1x.com/2019/07/15/ZT1X8K.png" alt="三角常用特殊值2"></p><h2 id="四、基本关系式"><a href="#四、基本关系式" class="headerlink" title="四、基本关系式"></a>四、基本关系式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT3pbd.png" alt="基本关系式"></p><h2 id="五、二倍角公式"><a href="#五、二倍角公式" class="headerlink" title="五、二倍角公式"></a>五、二倍角公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT3A8f.png" alt="二倍角公式"></p><h2 id="六、降幂公式"><a href="#六、降幂公式" class="headerlink" title="六、降幂公式"></a>六、降幂公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT3Man.png" alt="降幂公式"></p><blockquote><p><strong>注意</strong>：降幂公式主要是由二倍角公式进行推出的，同学们可以尝试进行推导，有问题可以留言。但降幂公式在解题过程中极其重要，大家必须学会灵活运用）</p></blockquote><h2 id="七、辅助角公式"><a href="#七、辅助角公式" class="headerlink" title="七、辅助角公式"></a>七、辅助角公式</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT3BPx.png" alt="辅助角公式"></p><h2 id="八、解题思路"><a href="#八、解题思路" class="headerlink" title="八、解题思路"></a>八、解题思路</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT8AoR.png" alt="解题思路"></p><h2 id="九、练习题"><a href="#九、练习题" class="headerlink" title="九、练习题"></a>九、练习题</h2><p><img src="https://s2.ax1x.com/2019/07/15/ZT8uQO.png" alt="练习题"></p><blockquote><p>大家课后按照上面的思路把这个练习题尝试着解出来，明天在视频中我会对此题进行解答！！</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 三角函数 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 三角函数 </tag>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 函数 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>

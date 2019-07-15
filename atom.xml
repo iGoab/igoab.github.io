@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>冯老师数学</title>
+  
+  <subtitle>高中数学</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://igoab.github.io/"/>
+  <updated>2019-07-15T03:02:32.886Z</updated>
+  <id>https://igoab.github.io/</id>
+  
+  <author>
+    <name>冯老师</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://igoab.github.io/2019/07/15/hello-world/"/>
+    <id>https://igoab.github.io/2019/07/15/hello-world/</id>
+    <published>2019-07-15T03:02:32.886Z</published>
+    <updated>2019-07-15T03:02:32.886Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>三角函数专题（一）</title>
+    <link href="https://igoab.github.io/2018/06/14/san-jiao-han-shu-zhuan-ti-er/"/>
+    <id>https://igoab.github.io/2018/06/14/san-jiao-han-shu-zhuan-ti-er/</id>
+    <published>2018-06-14T01:00:00.000Z</published>
+    <updated>2019-07-15T10:57:38.965Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;今天和大家分享一下：三角函数的&lt;strong&gt;&lt;big&gt;化简类公式&lt;/big&gt;&lt;/strong&gt;和解答题的&lt;strong&gt;&lt;big&gt;解题思路&lt;/big&gt;&lt;/strong&gt;。明天我会针对今天所涉及的题型进行&lt;strong&gt;&lt;big&gt;视频讲解&lt;/big
+        
+      
+    
+    </summary>
+    
+      <category term="三角函数" scheme="https://igoab.github.io/categories/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
+    
+    
+      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="函数" scheme="https://igoab.github.io/tags/%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>三角函数专题（一）</title>
+    <link href="https://igoab.github.io/2018/06/14/san-jiao-han-shu-zhuan-ti-yi/"/>
+    <id>https://igoab.github.io/2018/06/14/san-jiao-han-shu-zhuan-ti-yi/</id>
+    <published>2018-06-14T01:00:00.000Z</published>
+    <updated>2019-07-15T10:55:21.212Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;今天和大家分享一下：三角函数的&lt;strong&gt;&lt;big&gt;化简类公式&lt;/big&gt;&lt;/strong&gt;和解答题的&lt;strong&gt;&lt;big&gt;解题思路&lt;/big&gt;&lt;/strong&gt;。明天我会针对今天所涉及的题型进行&lt;strong&gt;&lt;big&gt;视频讲解&lt;/big
+        
+      
+    
+    </summary>
+    
+      <category term="三角函数" scheme="https://igoab.github.io/categories/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
+    
+    
+      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="函数" scheme="https://igoab.github.io/tags/%E5%87%BD%E6%95%B0/"/>
+    
+  </entry>
+  
+</feed>
