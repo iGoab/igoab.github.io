@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>线面平行的判定定理</title>
+      <link href="/2018/07/20/ji-he-fa/xian-mian-ping-xing-de-pan-ding-ding-li/"/>
+      <url>/2018/07/20/ji-he-fa/xian-mian-ping-xing-de-pan-ding-ding-li/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。因此，我会依次将这八种类型先用几何法，再用向量法进行详细讲解。而对于几何法，主要掌握<strong><big><font color="red">八大定理、三个求角、一个体积</font></big></strong>，今天在视频中和大家分享：<strong><big><font color="red">线面平行的判定定理</font></big></strong></p></blockquote><h2 id="直线与平面平行的判定定理"><a href="#直线与平面平行的判定定理" class="headerlink" title="直线与平面平行的判定定理"></a><strong><font color="red">直线与平面平行的判定定理</font></strong></h2><p><strong><font color="#0070c0">文字语言</font></strong>：平面外的一条直线与此平面内的一条直线平行，则该直线与此平面平行。</p><p><strong><font color="#0070c0">简记为</font></strong>：线线平行⇒线面平行</p><p><strong><font color="#0070c0">图形语言</font></strong>：<img src="https://s2.ax1x.com/2019/08/02/e068sS.png" alt></p><p><strong><font color="#0070c0">符号语言</font></strong>：<img src="https://s2.ax1x.com/2019/08/02/e06YZQ.png" alt></p><p><strong><font color="#0070c0">作用</font></strong>：证明直线与平面平行</p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=27433692&cid=47316609&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>    <br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 几何法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 几何法 </tag>
+            
+            <tag> 线面平行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>解三角形总结</title>
       <link href="/2018/07/19/jie-san-jiao-xing/jie-san-jiao-xing-zong-jie/"/>
       <url>/2018/07/19/jie-san-jiao-xing/jie-san-jiao-xing-zong-jie/</url>
@@ -13,7 +42,7 @@
       
       <categories>
           
-          <category> 数列 </category>
+          <category> 解三角形 </category>
           
       </categories>
       
@@ -22,7 +51,7 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 数列 </tag>
+            <tag> 三角形 </tag>
             
         </tags>
       
@@ -67,7 +96,7 @@
       
       <categories>
           
-          <category> 通项公式 </category>
+          <category> 数列通项公式 </category>
           
       </categories>
       
@@ -625,9 +654,9 @@
       
         <tags>
             
-            <tag> 等差数列 </tag>
-            
             <tag> 高中数学 </tag>
+            
+            <tag> 等差数列 </tag>
             
             <tag> 求和公式 </tag>
             
@@ -654,9 +683,9 @@
       
         <tags>
             
-            <tag> 等差数列 </tag>
-            
             <tag> 高中数学 </tag>
+            
+            <tag> 等差数列 </tag>
             
             <tag> 通项公式 </tag>
             
@@ -685,9 +714,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 判断三角形形状 </tag>
-            
             <tag> 三角形 </tag>
+            
+            <tag> 判断三角形形状 </tag>
             
             <tag> 最值 </tag>
             
@@ -716,9 +745,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 判断三角形形状 </tag>
-            
             <tag> 三角形 </tag>
+            
+            <tag> 判断三角形形状 </tag>
             
             <tag> 摄影定理 </tag>
             
@@ -747,9 +776,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 判断三角形形状 </tag>
-            
             <tag> 三角形 </tag>
+            
+            <tag> 判断三角形形状 </tag>
             
         </tags>
       
@@ -776,11 +805,11 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 三角形 </tag>
-            
             <tag> 余弦定理 </tag>
             
             <tag> 余弦 </tag>
+            
+            <tag> 三角形 </tag>
             
         </tags>
       
@@ -836,9 +865,9 @@
       
         <tags>
             
-            <tag> 高中数学 </tag>
-            
             <tag> 三角函数 </tag>
+            
+            <tag> 高中数学 </tag>
             
             <tag> 函数 </tag>
             
@@ -865,9 +894,9 @@
       
         <tags>
             
-            <tag> 高中数学 </tag>
-            
             <tag> 三角函数 </tag>
+            
+            <tag> 高中数学 </tag>
             
             <tag> 函数 </tag>
             
@@ -894,9 +923,9 @@
       
         <tags>
             
-            <tag> 高中数学 </tag>
-            
             <tag> 三角函数 </tag>
+            
+            <tag> 高中数学 </tag>
             
             <tag> 函数 </tag>
             
@@ -923,9 +952,9 @@
       
         <tags>
             
-            <tag> 高中数学 </tag>
-            
             <tag> 三角函数 </tag>
+            
+            <tag> 高中数学 </tag>
             
             <tag> 函数 </tag>
             
@@ -952,9 +981,9 @@
       
         <tags>
             
-            <tag> 高中数学 </tag>
-            
             <tag> 三角函数 </tag>
+            
+            <tag> 高中数学 </tag>
             
             <tag> 函数 </tag>
             
@@ -981,9 +1010,9 @@
       
         <tags>
             
-            <tag> 高中数学 </tag>
-            
             <tag> 三角函数 </tag>
+            
+            <tag> 高中数学 </tag>
             
             <tag> 函数 </tag>
             
