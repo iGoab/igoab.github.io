@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://igoab.github.io/"/>
-  <updated>2019-08-02T12:34:42.991Z</updated>
+  <updated>2019-08-12T03:11:42.592Z</updated>
   <id>https://igoab.github.io/</id>
   
   <author>
@@ -15,6 +15,99 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>线面垂直的判定定理</title>
+    <link href="https://igoab.github.io/2018/07/23/ji-he-fa/xian-mian-chui-zhi-de-pan-ding-ding-li/"/>
+    <id>https://igoab.github.io/2018/07/23/ji-he-fa/xian-mian-chui-zhi-de-pan-ding-ding-li/</id>
+    <published>2018-07-23T01:00:00.000Z</published>
+    <updated>2019-08-12T03:11:42.592Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="面面平行" scheme="https://igoab.github.io/tags/%E9%9D%A2%E9%9D%A2%E5%B9%B3%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面面平行的判定定理</title>
+    <link href="https://igoab.github.io/2018/07/22/ji-he-fa/mian-mian-ping-xing-de-pan-ding-ding-li/"/>
+    <id>https://igoab.github.io/2018/07/22/ji-he-fa/mian-mian-ping-xing-de-pan-ding-ding-li/</id>
+    <published>2018-07-22T01:00:00.000Z</published>
+    <updated>2019-08-12T03:07:27.760Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="面面平行" scheme="https://igoab.github.io/tags/%E9%9D%A2%E9%9D%A2%E5%B9%B3%E8%A1%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线面平行的判定定理</title>
+    <link href="https://igoab.github.io/2018/07/21/ji-he-fa/xian-mian-ping-xing-de-xing-zhi-ding-li/"/>
+    <id>https://igoab.github.io/2018/07/21/ji-he-fa/xian-mian-ping-xing-de-xing-zhi-ding-li/</id>
+    <published>2018-07-21T01:00:00.000Z</published>
+    <updated>2019-08-12T03:05:30.834Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="线面平行" scheme="https://igoab.github.io/tags/%E7%BA%BF%E9%9D%A2%E5%B9%B3%E8%A1%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>线面平行的判定定理</title>
@@ -687,9 +780,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="通项公式" scheme="https://igoab.github.io/tags/%E9%80%9A%E9%A1%B9%E5%85%AC%E5%BC%8F/"/>
-    
       <category term="等比数列" scheme="https://igoab.github.io/tags/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97/"/>
+    
+      <category term="通项公式" scheme="https://igoab.github.io/tags/%E9%80%9A%E9%A1%B9%E5%85%AC%E5%BC%8F/"/>
     
   </entry>
   
@@ -716,9 +809,9 @@
       <category term="数列" scheme="https://igoab.github.io/categories/%E6%95%B0%E5%88%97/"/>
     
     
-      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
-    
       <category term="等差数列" scheme="https://igoab.github.io/tags/%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97/"/>
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
       <category term="求和公式" scheme="https://igoab.github.io/tags/%E6%B1%82%E5%92%8C%E5%85%AC%E5%BC%8F/"/>
     
@@ -747,9 +840,9 @@
       <category term="数列" scheme="https://igoab.github.io/categories/%E6%95%B0%E5%88%97/"/>
     
     
-      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
-    
       <category term="等差数列" scheme="https://igoab.github.io/tags/%E7%AD%89%E5%B7%AE%E6%95%B0%E5%88%97/"/>
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
       <category term="通项公式" scheme="https://igoab.github.io/tags/%E9%80%9A%E9%A1%B9%E5%85%AC%E5%BC%8F/"/>
     
@@ -780,9 +873,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
-    
       <category term="判断三角形形状" scheme="https://igoab.github.io/tags/%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BD%A2%E7%8A%B6/"/>
+    
+      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
     
       <category term="最值" scheme="https://igoab.github.io/tags/%E6%9C%80%E5%80%BC/"/>
     
@@ -813,9 +906,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
-    
       <category term="判断三角形形状" scheme="https://igoab.github.io/tags/%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BD%A2%E7%8A%B6/"/>
+    
+      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
     
       <category term="摄影定理" scheme="https://igoab.github.io/tags/%E6%91%84%E5%BD%B1%E5%AE%9A%E7%90%86/"/>
     
@@ -846,9 +939,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
-    
       <category term="判断三角形形状" scheme="https://igoab.github.io/tags/%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BD%A2%E7%8A%B6/"/>
+    
+      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
     
   </entry>
   
@@ -877,11 +970,11 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
+      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
+    
       <category term="余弦定理" scheme="https://igoab.github.io/tags/%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%86/"/>
     
       <category term="余弦" scheme="https://igoab.github.io/tags/%E4%BD%99%E5%BC%A6/"/>
-    
-      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
     
   </entry>
   
@@ -941,9 +1034,9 @@
       <category term="三角函数" scheme="https://igoab.github.io/categories/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
     
-      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
-    
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
       <category term="函数" scheme="https://igoab.github.io/tags/%E5%87%BD%E6%95%B0/"/>
     
@@ -972,9 +1065,9 @@
       <category term="三角函数" scheme="https://igoab.github.io/categories/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
     
-      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
-    
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
       <category term="函数" scheme="https://igoab.github.io/tags/%E5%87%BD%E6%95%B0/"/>
     
@@ -1003,9 +1096,9 @@
       <category term="三角函数" scheme="https://igoab.github.io/categories/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
     
-      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
-    
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
       <category term="函数" scheme="https://igoab.github.io/tags/%E5%87%BD%E6%95%B0/"/>
     
@@ -1034,9 +1127,9 @@
       <category term="三角函数" scheme="https://igoab.github.io/categories/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
     
-      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
-    
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
       <category term="函数" scheme="https://igoab.github.io/tags/%E5%87%BD%E6%95%B0/"/>
     
@@ -1065,9 +1158,9 @@
       <category term="三角函数" scheme="https://igoab.github.io/categories/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
     
-      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
-    
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
       <category term="函数" scheme="https://igoab.github.io/tags/%E5%87%BD%E6%95%B0/"/>
     
@@ -1096,9 +1189,9 @@
       <category term="三角函数" scheme="https://igoab.github.io/categories/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
     
-      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
-    
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="三角函数" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%87%BD%E6%95%B0/"/>
     
       <category term="函数" scheme="https://igoab.github.io/tags/%E5%87%BD%E6%95%B0/"/>
     
