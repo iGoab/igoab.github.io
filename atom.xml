@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://igoab.github.io/"/>
-  <updated>2020-03-31T02:12:06.347Z</updated>
+  <updated>2020-03-31T05:05:22.339Z</updated>
   <id>https://igoab.github.io/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>线面垂直的性质定理</title>
-    <link href="https://igoab.github.io/2018/07/24/ji-he-fa/xian-mian-chui-zhi-de-xing-zhi-ding-li/"/>
-    <id>https://igoab.github.io/2018/07/24/ji-he-fa/xian-mian-chui-zhi-de-xing-zhi-ding-li/</id>
-    <published>2018-07-24T01:00:00.000Z</published>
-    <updated>2020-03-31T02:12:06.347Z</updated>
+    <title>面面垂直的判定定理</title>
+    <link href="https://igoab.github.io/2018/07/25/ji-he-fa/mian-mian-chui-zhi-de-pan-ding-ding-li/"/>
+    <id>https://igoab.github.io/2018/07/25/ji-he-fa/mian-mian-chui-zhi-de-pan-ding-ding-li/</id>
+    <published>2018-07-25T01:00:00.000Z</published>
+    <updated>2020-03-31T05:05:22.339Z</updated>
     
     <summary type="html">
     
@@ -43,7 +43,38 @@
     
       <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
     
-      <category term="线面平行" scheme="https://igoab.github.io/tags/%E7%BA%BF%E9%9D%A2%E5%B9%B3%E8%A1%8C/"/>
+      <category term="面面垂直" scheme="https://igoab.github.io/tags/%E9%9D%A2%E9%9D%A2%E5%9E%82%E7%9B%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线面垂直的性质定理</title>
+    <link href="https://igoab.github.io/2018/07/24/ji-he-fa/xian-mian-chui-zhi-de-xing-zhi-ding-li/"/>
+    <id>https://igoab.github.io/2018/07/24/ji-he-fa/xian-mian-chui-zhi-de-xing-zhi-ding-li/</id>
+    <published>2018-07-24T01:00:00.000Z</published>
+    <updated>2020-03-31T04:59:32.250Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="线面垂直" scheme="https://igoab.github.io/tags/%E7%BA%BF%E9%9D%A2%E5%9E%82%E7%9B%B4/"/>
     
   </entry>
   
@@ -52,7 +83,7 @@
     <link href="https://igoab.github.io/2018/07/23/ji-he-fa/xian-mian-chui-zhi-de-pan-ding-ding-li/"/>
     <id>https://igoab.github.io/2018/07/23/ji-he-fa/xian-mian-chui-zhi-de-pan-ding-ding-li/</id>
     <published>2018-07-23T01:00:00.000Z</published>
-    <updated>2019-08-12T03:11:42.592Z</updated>
+    <updated>2020-03-31T04:59:41.219Z</updated>
     
     <summary type="html">
     
@@ -74,7 +105,7 @@
     
       <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
     
-      <category term="面面平行" scheme="https://igoab.github.io/tags/%E9%9D%A2%E9%9D%A2%E5%B9%B3%E8%A1%8C/"/>
+      <category term="线面垂直" scheme="https://igoab.github.io/tags/%E7%BA%BF%E9%9D%A2%E5%9E%82%E7%9B%B4/"/>
     
   </entry>
   
