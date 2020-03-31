@@ -4,6 +4,267 @@
   
     
     <entry>
+      <title>证明线面垂直-向量法</title>
+      <link href="/2018/08/03/xiang-liang-fa/zheng-ming-xian-mian-chui-zhi-xiang-liang-fa/"/>
+      <url>/2018/08/03/xiang-liang-fa/zheng-ming-xian-mian-chui-zhi-xiang-liang-fa/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。从今天开始，我会依次将这八种类型用<strong><big><font color="red">向量法</font></big></strong>进行详细讲解。今天在视频中和大家分享：如何用向量法求<strong><big><font color="red">线面垂直</font></big></strong></p></blockquote><p><strong><big><font color="red">平面法向量的求法：</font></big></strong><br>（1）设出平面的法向量为$\vec{n}=(x,y,z)$<br>（2）求出平面内的两个不共线的向量的坐标$\vec{a}=(a_1,a_2,a_3),\vec{b}=(b_1,b_2,b_3)$<br>（3）根据法向量的定义建立关于x,y,z的方程组<br><img src="https://s1.ax1x.com/2020/03/31/GQjTED.png" alt><br>（4）解方程组，取其中的一个解，即取法向量<br><strong><big><font color="red">注</font></big></strong>：由于一个平面的法向量有无数个，故可在带入方程的解中取一个最简单的作为平面的法向量<br><strong><big><font color="red">线面垂直$\Longleftrightarrow$线的方向向量与面的法向量平行</font></big></strong></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28562003&bvid=BV13s411G7TK&cid=49442895&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 向量法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 线面垂直 </tag>
+            
+            <tag> 向量法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>证明线面平行-向量法</title>
+      <link href="/2018/08/02/xiang-liang-fa/zheng-ming-xian-mian-ping-xing-xiang-liang-fa/"/>
+      <url>/2018/08/02/xiang-liang-fa/zheng-ming-xian-mian-ping-xing-xiang-liang-fa/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。从今天开始，我会依次将这八种类型用<strong><big><font color="red">向量法</font></big></strong>进行详细讲解。今天在视频中和大家分享：如何用向量法求<strong><big><font color="red">线面平行</font></big></strong></p></blockquote><p><strong><big><font color="red">平面法向量的求法：</font></big></strong><br>（1）设出平面的法向量为$\vec{n}=(x,y,z)$<br>（2）求出平面内的两个不共线的向量的坐标$\vec{a}=(a_1,a_2,a_3),\vec{b}=(b_1,b_2,b_3)$<br>（3）根据法向量的定义建立关于x,y,z的方程组<br><img src="https://s1.ax1x.com/2020/03/31/GQjTED.png" alt><br>（4）解方程组，取其中的一个解，即取法向量<br><strong><big><font color="red">注</font></big></strong>：由于一个平面的法向量有无数个，故可在带入方程的解中取一个最简单的作为平面的法向量<br><strong><big><font color="red">线面平行$\Longleftrightarrow$线的方向向量与面的法向量垂直</font></big></strong></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28481067&bvid=BV1ds41137Vm&cid=49282581&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 向量法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 线面平行 </tag>
+            
+            <tag> 向量法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>异面直线所成角-向量法</title>
+      <link href="/2018/08/01/xiang-liang-fa/yi-mian-zhi-xian-suo-cheng-jiao-xiang-liang-fa/"/>
+      <url>/2018/08/01/xiang-liang-fa/yi-mian-zhi-xian-suo-cheng-jiao-xiang-liang-fa/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。从今天开始，我会依次将这八种类型用<strong><big><font color="red">向量法</font></big></strong>进行详细讲解。今天在视频中和大家分享：如何用向量法求<strong><big><font color="red">异面直线所成角</font></big></strong></p></blockquote><p>已知两异面直线$a,b, A,B\in a, C,D\in b$,则异面直线所成的角$\theta$为:$cos\theta=\frac{|\vec{AB}\cdot\vec{CD}|}{|AB||CD|}$</p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28398327&bvid=BV1ns41137pr&cid=49128120&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 向量法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 异面直线 </tag>
+            
+            <tag> 向量法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>空间几何体的体积</title>
+      <link href="/2018/07/31/ji-he-fa/kong-jian-ji-he-ti-de-ti-ji/"/>
+      <url>/2018/07/31/ji-he-fa/kong-jian-ji-he-ti-de-ti-ji/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。因此，我会依次将这八种类型先用几何法，再用向量法进行详细讲解。而对于几何法，主要掌握<strong><big><font color="red">八大定理、三个求角、一个体积</font></big></strong>，今天在视频中和大家分享：<strong><big><font color="red">如何求空间几何体的体积</font></big></strong></p></blockquote><p>柱体的体积公式：$V=Sh$<br>锥体的体积公式：$V=\frac{1}{3}Sh$<br>球体的体积公式：$V=\frac{4}{3}\pi R^3$</p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28316876&bvid=BV1Ns41137EW&cid=48965133&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 几何法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 几何法 </tag>
+            
+            <tag> 空间几何体 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二面角</title>
+      <link href="/2018/07/30/ji-he-fa/er-mian-jiao/"/>
+      <url>/2018/07/30/ji-he-fa/er-mian-jiao/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。因此，我会依次将这八种类型先用几何法，再用向量法进行详细讲解。而对于几何法，主要掌握<strong><big><font color="red">八大定理、三个求角、一个体积</font></big></strong>，今天在视频中和大家分享：<strong><big><font color="red">如何求二面角</font></big></strong></p></blockquote><p>平面与平面所成的角（简称二面角）：<br>如图，$OB\botl,OA\botl \Longrightarrow \angle AOB$是二面角$\alpha-l-\beta$的平面角；范围：$\angle AOB\in [0^o,180^o]$</p><p><img src="https://s1.ax1x.com/2020/03/31/GQbjGq.png" alt></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28228472&bvid=BV1Ys411w7dW&cid=48799128&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 几何法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 几何法 </tag>
+            
+            <tag> 二面角 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>线面角</title>
+      <link href="/2018/07/29/ji-he-fa/xian-mian-jiao/"/>
+      <url>/2018/07/29/ji-he-fa/xian-mian-jiao/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。因此，我会依次将这八种类型先用几何法，再用向量法进行详细讲解。而对于几何法，主要掌握<strong><big><font color="red">八大定理、三个求角、一个体积</font></big></strong>，今天在视频中和大家分享：<strong><big><font color="red">如何求线面角</font></big></strong></p></blockquote><p><font color="red">直线与平面所成的角（简称线面角）：</font>若直线与平面斜交，则平面的斜线与该斜线在平面内射影的夹角。如图，$PO\bot\alpha$于O，则AO是PA在平面$\alpha$内的射影，则$\angle PAO$就是直线PA与平面$\alpha$所成的角。<br><font color="red">范围：</font>$\theta\in[0^o,90^o]$，注：$l\subset\alpha$若或$l//\alpha$，则直线$l$与平面$\alpha$所成的角为$0^o$；若$l\bot\alpha$，则直线$l$与平面$\alpha$所成的角为$90^o$。</p><p><img src="https://s1.ax1x.com/2020/03/31/GQHwjS.png" alt></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28150138&bvid=BV1us411w7By&cid=48650887&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 几何法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 几何法 </tag>
+            
+            <tag> 线面角 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>异面直线成角问题</title>
+      <link href="/2018/07/28/ji-he-fa/yi-mian-zhi-xian-cheng-jiao-wen-ti/"/>
+      <url>/2018/07/28/ji-he-fa/yi-mian-zhi-xian-cheng-jiao-wen-ti/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。因此，我会依次将这八种类型先用几何法，再用向量法进行详细讲解。而对于几何法，主要掌握<strong><big><font color="red">八大定理、三个求角、一个体积</font></big></strong>，今天在视频中和大家分享：<strong><big><font color="red">异面直线成角问题 </font></big></strong></p></blockquote><p>（1）范围：$\theta\in(0^o,90^o]$；（2）作异面直线所成的角：平移法.</p><p>如图，在空间任取一点O，过O作$a’//a,b’//b$，则$a’,b’$所成的$\theta$角为异面直线$a,b$所成的角。<font color="red">特别地，找异面直线所成的角时，经常把一条异面直线平移到另一条异面直线的特殊点（如线段中点，端点等）上，形成异面直线所成的角。</font></p><p><img src="https://s1.ax1x.com/2020/03/31/GQothV.png" alt></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28068454&bvid=BV1es411c7BL&cid=48967832&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 几何法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 几何法 </tag>
+            
+            <tag> 异面直线 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>面面垂直的性质定理</title>
+      <link href="/2018/07/27/ji-he-fa/mian-mian-chui-zhi-de-xing-zhi-ding-li/"/>
+      <url>/2018/07/27/ji-he-fa/mian-mian-chui-zhi-de-xing-zhi-ding-li/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。因此，我会依次将这八种类型先用几何法，再用向量法进行详细讲解。而对于几何法，主要掌握<strong><big><font color="red">八大定理、三个求角、一个体积</font></big></strong>，今天在视频中和大家分享：<strong><big><font color="red">面面垂直的性质定理</font></big></strong></p></blockquote><h2 id="平面与平面垂直的性质定理"><a href="#平面与平面垂直的性质定理" class="headerlink" title="平面与平面垂直的性质定理"></a><strong><font color="red">平面与平面垂直的性质定理</font></strong></h2><p><strong><font color="#0070c0">文字语言</font></strong>：两个平面垂直，则一个平面内垂直于交线的直线与另一个平面垂直。</p><p><strong><font color="#0070c0">简记为</font></strong>：面面垂直⇒线面垂直</p><p><strong><font color="#0070c0">图形语言</font></strong>：<img src="https://s1.ax1x.com/2020/03/31/GKqbSf.png" alt></p><p><strong><font color="#0070c0">符号语言</font></strong>：<img src="https://s1.ax1x.com/2020/03/31/GQ4D0I.png" alt></p><p><strong><font color="#0070c0">作用</font></strong>：证明直线与平面垂直</p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=27996401&bvid=BV1Ps411P7oP&cid=48366685&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>    <br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 几何法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 几何法 </tag>
+            
+            <tag> 面面垂直 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>面面平行的性质定理</title>
+      <link href="/2018/07/26/ji-he-fa/mian-mian-ping-xing-de-xing-zhi-ding-li/"/>
+      <url>/2018/07/26/ji-he-fa/mian-mian-ping-xing-de-xing-zhi-ding-li/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。因此，我会依次将这八种类型先用几何法，再用向量法进行详细讲解。而对于几何法，主要掌握<strong><big><font color="red">八大定理、三个求角、一个体积</font></big></strong>，今天在视频中和大家分享：<strong><big><font color="red">面面平行的性质定理 </font></big></strong></p></blockquote><h2 id="平面与平面平行的性质定理"><a href="#平面与平面平行的性质定理" class="headerlink" title="平面与平面平行的性质定理"></a><strong><font color="red">平面与平面平行的性质定理</font></strong></h2><p><strong><font color="#0070c0">文字语言</font></strong>：如果两个平行平面同时和第三个平面相交，则它们的交线平行。</p><p><strong><font color="#0070c0">简记为</font></strong>：面面平行⇒线线平行</p><p><strong><font color="#0070c0">图形语言</font></strong>：<img src="https://s1.ax1x.com/2020/03/31/GQhmMd.png" alt></p><p><strong><font color="#0070c0">符号语言</font></strong>：<img src="https://s1.ax1x.com/2020/03/31/GQhMZt.png" alt></p><p><strong><font color="#0070c0">作用</font></strong>：证明线线平行</p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=27942160&bvid=BV1is411A7HB&cid=48264864&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  <br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 几何法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 几何法 </tag>
+            
+            <tag> 面面平行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>面面垂直的判定定理</title>
       <link href="/2018/07/25/ji-he-fa/mian-mian-chui-zhi-de-pan-ding-ding-li/"/>
       <url>/2018/07/25/ji-he-fa/mian-mian-chui-zhi-de-pan-ding-ding-li/</url>
@@ -279,9 +540,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 数列 </tag>
-            
             <tag> 五种模型 </tag>
+            
+            <tag> 数列 </tag>
             
         </tags>
       
@@ -308,9 +569,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 数列 </tag>
-            
             <tag> 五种模型 </tag>
+            
+            <tag> 数列 </tag>
             
         </tags>
       
@@ -337,9 +598,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 数列 </tag>
-            
             <tag> 五种模型 </tag>
+            
+            <tag> 数列 </tag>
             
         </tags>
       
@@ -366,9 +627,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 数列 </tag>
-            
             <tag> 五种模型 </tag>
+            
+            <tag> 数列 </tag>
             
         </tags>
       
@@ -395,9 +656,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 数列 </tag>
-            
             <tag> 五种模型 </tag>
+            
+            <tag> 数列 </tag>
             
         </tags>
       
@@ -424,9 +685,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 数列 </tag>
-            
             <tag> 五种模型 </tag>
+            
+            <tag> 数列 </tag>
             
         </tags>
       
@@ -859,9 +1120,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 三角形 </tag>
-            
             <tag> 判断三角形形状 </tag>
+            
+            <tag> 三角形 </tag>
             
             <tag> 最值 </tag>
             
@@ -890,9 +1151,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 三角形 </tag>
-            
             <tag> 判断三角形形状 </tag>
+            
+            <tag> 三角形 </tag>
             
             <tag> 摄影定理 </tag>
             
@@ -921,9 +1182,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 三角形 </tag>
-            
             <tag> 判断三角形形状 </tag>
+            
+            <tag> 三角形 </tag>
             
         </tags>
       
@@ -950,11 +1211,11 @@
             
             <tag> 高中数学 </tag>
             
+            <tag> 三角形 </tag>
+            
             <tag> 余弦定理 </tag>
             
             <tag> 余弦 </tag>
-            
-            <tag> 三角形 </tag>
             
         </tags>
       

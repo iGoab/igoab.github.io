@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://igoab.github.io/"/>
-  <updated>2020-03-31T05:06:23.579Z</updated>
+  <updated>2020-03-31T13:26:07.157Z</updated>
   <id>https://igoab.github.io/</id>
   
   <author>
@@ -15,6 +15,285 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>证明线面垂直-向量法</title>
+    <link href="https://igoab.github.io/2018/08/03/xiang-liang-fa/zheng-ming-xian-mian-chui-zhi-xiang-liang-fa/"/>
+    <id>https://igoab.github.io/2018/08/03/xiang-liang-fa/zheng-ming-xian-mian-chui-zhi-xiang-liang-fa/</id>
+    <published>2018-08-03T01:00:00.000Z</published>
+    <updated>2020-03-31T13:26:07.157Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="向量法" scheme="https://igoab.github.io/categories/%E5%90%91%E9%87%8F%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="线面垂直" scheme="https://igoab.github.io/tags/%E7%BA%BF%E9%9D%A2%E5%9E%82%E7%9B%B4/"/>
+    
+      <category term="向量法" scheme="https://igoab.github.io/tags/%E5%90%91%E9%87%8F%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>证明线面平行-向量法</title>
+    <link href="https://igoab.github.io/2018/08/02/xiang-liang-fa/zheng-ming-xian-mian-ping-xing-xiang-liang-fa/"/>
+    <id>https://igoab.github.io/2018/08/02/xiang-liang-fa/zheng-ming-xian-mian-ping-xing-xiang-liang-fa/</id>
+    <published>2018-08-02T01:00:00.000Z</published>
+    <updated>2020-03-31T13:23:00.677Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="向量法" scheme="https://igoab.github.io/categories/%E5%90%91%E9%87%8F%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="线面平行" scheme="https://igoab.github.io/tags/%E7%BA%BF%E9%9D%A2%E5%B9%B3%E8%A1%8C/"/>
+    
+      <category term="向量法" scheme="https://igoab.github.io/tags/%E5%90%91%E9%87%8F%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>异面直线所成角-向量法</title>
+    <link href="https://igoab.github.io/2018/08/01/xiang-liang-fa/yi-mian-zhi-xian-suo-cheng-jiao-xiang-liang-fa/"/>
+    <id>https://igoab.github.io/2018/08/01/xiang-liang-fa/yi-mian-zhi-xian-suo-cheng-jiao-xiang-liang-fa/</id>
+    <published>2018-08-01T01:00:00.000Z</published>
+    <updated>2020-03-31T13:15:48.165Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="向量法" scheme="https://igoab.github.io/categories/%E5%90%91%E9%87%8F%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="异面直线" scheme="https://igoab.github.io/tags/%E5%BC%82%E9%9D%A2%E7%9B%B4%E7%BA%BF/"/>
+    
+      <category term="向量法" scheme="https://igoab.github.io/tags/%E5%90%91%E9%87%8F%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>空间几何体的体积</title>
+    <link href="https://igoab.github.io/2018/07/31/ji-he-fa/kong-jian-ji-he-ti-de-ti-ji/"/>
+    <id>https://igoab.github.io/2018/07/31/ji-he-fa/kong-jian-ji-he-ti-de-ti-ji/</id>
+    <published>2018-07-31T01:00:00.000Z</published>
+    <updated>2020-03-31T13:03:56.163Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="空间几何体" scheme="https://igoab.github.io/tags/%E7%A9%BA%E9%97%B4%E5%87%A0%E4%BD%95%E4%BD%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二面角</title>
+    <link href="https://igoab.github.io/2018/07/30/ji-he-fa/er-mian-jiao/"/>
+    <id>https://igoab.github.io/2018/07/30/ji-he-fa/er-mian-jiao/</id>
+    <published>2018-07-30T01:00:00.000Z</published>
+    <updated>2020-03-31T13:00:47.634Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="二面角" scheme="https://igoab.github.io/tags/%E4%BA%8C%E9%9D%A2%E8%A7%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>线面角</title>
+    <link href="https://igoab.github.io/2018/07/29/ji-he-fa/xian-mian-jiao/"/>
+    <id>https://igoab.github.io/2018/07/29/ji-he-fa/xian-mian-jiao/</id>
+    <published>2018-07-29T01:00:00.000Z</published>
+    <updated>2020-03-31T12:55:03.427Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="线面角" scheme="https://igoab.github.io/tags/%E7%BA%BF%E9%9D%A2%E8%A7%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>异面直线成角问题</title>
+    <link href="https://igoab.github.io/2018/07/28/ji-he-fa/yi-mian-zhi-xian-cheng-jiao-wen-ti/"/>
+    <id>https://igoab.github.io/2018/07/28/ji-he-fa/yi-mian-zhi-xian-cheng-jiao-wen-ti/</id>
+    <published>2018-07-28T01:00:00.000Z</published>
+    <updated>2020-03-31T12:44:39.231Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="异面直线" scheme="https://igoab.github.io/tags/%E5%BC%82%E9%9D%A2%E7%9B%B4%E7%BA%BF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面面垂直的性质定理</title>
+    <link href="https://igoab.github.io/2018/07/27/ji-he-fa/mian-mian-chui-zhi-de-xing-zhi-ding-li/"/>
+    <id>https://igoab.github.io/2018/07/27/ji-he-fa/mian-mian-chui-zhi-de-xing-zhi-ding-li/</id>
+    <published>2018-07-27T01:00:00.000Z</published>
+    <updated>2020-03-31T12:32:31.553Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="面面垂直" scheme="https://igoab.github.io/tags/%E9%9D%A2%E9%9D%A2%E5%9E%82%E7%9B%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面面平行的性质定理</title>
+    <link href="https://igoab.github.io/2018/07/26/ji-he-fa/mian-mian-ping-xing-de-xing-zhi-ding-li/"/>
+    <id>https://igoab.github.io/2018/07/26/ji-he-fa/mian-mian-ping-xing-de-xing-zhi-ding-li/</id>
+    <published>2018-07-26T01:00:00.000Z</published>
+    <updated>2020-03-31T12:28:16.273Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;在考试中，&lt;strong&gt;&lt;big&gt;&lt;font color=&quot;red&quot;&gt;立体几何&lt;/font&gt;&lt;/big&gt;&lt;/strong&gt;作为&lt;strong&gt;&lt;big&gt;&lt;font
+        
+      
+    
+    </summary>
+    
+      <category term="几何法" scheme="https://igoab.github.io/categories/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+    
+      <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
+    
+      <category term="几何法" scheme="https://igoab.github.io/tags/%E5%87%A0%E4%BD%95%E6%B3%95/"/>
+    
+      <category term="面面平行" scheme="https://igoab.github.io/tags/%E9%9D%A2%E9%9D%A2%E5%B9%B3%E8%A1%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>面面垂直的判定定理</title>
@@ -315,9 +594,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
-    
       <category term="五种模型" scheme="https://igoab.github.io/tags/%E4%BA%94%E7%A7%8D%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
     
   </entry>
   
@@ -346,9 +625,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
-    
       <category term="五种模型" scheme="https://igoab.github.io/tags/%E4%BA%94%E7%A7%8D%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
     
   </entry>
   
@@ -377,9 +656,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
-    
       <category term="五种模型" scheme="https://igoab.github.io/tags/%E4%BA%94%E7%A7%8D%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
     
   </entry>
   
@@ -408,9 +687,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
-    
       <category term="五种模型" scheme="https://igoab.github.io/tags/%E4%BA%94%E7%A7%8D%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
     
   </entry>
   
@@ -439,9 +718,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
-    
       <category term="五种模型" scheme="https://igoab.github.io/tags/%E4%BA%94%E7%A7%8D%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
     
   </entry>
   
@@ -470,9 +749,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
-    
       <category term="五种模型" scheme="https://igoab.github.io/tags/%E4%BA%94%E7%A7%8D%E6%A8%A1%E5%9E%8B/"/>
+    
+      <category term="数列" scheme="https://igoab.github.io/tags/%E6%95%B0%E5%88%97/"/>
     
   </entry>
   
@@ -935,9 +1214,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
-    
       <category term="判断三角形形状" scheme="https://igoab.github.io/tags/%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BD%A2%E7%8A%B6/"/>
+    
+      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
     
       <category term="最值" scheme="https://igoab.github.io/tags/%E6%9C%80%E5%80%BC/"/>
     
@@ -968,9 +1247,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
-    
       <category term="判断三角形形状" scheme="https://igoab.github.io/tags/%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BD%A2%E7%8A%B6/"/>
+    
+      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
     
       <category term="摄影定理" scheme="https://igoab.github.io/tags/%E6%91%84%E5%BD%B1%E5%AE%9A%E7%90%86/"/>
     
@@ -1001,9 +1280,9 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
-      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
-    
       <category term="判断三角形形状" scheme="https://igoab.github.io/tags/%E5%88%A4%E6%96%AD%E4%B8%89%E8%A7%92%E5%BD%A2%E5%BD%A2%E7%8A%B6/"/>
+    
+      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
     
   </entry>
   
@@ -1032,11 +1311,11 @@
     
       <category term="高中数学" scheme="https://igoab.github.io/tags/%E9%AB%98%E4%B8%AD%E6%95%B0%E5%AD%A6/"/>
     
+      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
+    
       <category term="余弦定理" scheme="https://igoab.github.io/tags/%E4%BD%99%E5%BC%A6%E5%AE%9A%E7%90%86/"/>
     
       <category term="余弦" scheme="https://igoab.github.io/tags/%E4%BD%99%E5%BC%A6/"/>
-    
-      <category term="三角形" scheme="https://igoab.github.io/tags/%E4%B8%89%E8%A7%92%E5%BD%A2/"/>
     
   </entry>
   
