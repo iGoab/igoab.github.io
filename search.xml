@@ -4,6 +4,122 @@
   
     
     <entry>
+      <title>集合的概念</title>
+      <link href="/2018/08/10/xue-xi/ji-he-de-gai-nian/"/>
+      <url>/2018/08/10/xue-xi/ji-he-de-gai-nian/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>今天老师和大家分享一下集合的相关知识。</p></blockquote><h2 id="集合的含义"><a href="#集合的含义" class="headerlink" title="集合的含义"></a>集合的含义</h2><p>那么什么是集合呢？集合是一定<strong>范围的、确定的、可区别</strong>的事物，当做一个<strong>整体</strong>来看待，就叫做集合(set)，简称集，其中各事物叫作集合的元素或简称元。<br><strong>同学们记住其中的关键点，就是可区别的，这个意思就是说集合里面的元素是不能重复的。</strong><br>通常我们规定用大写拉丁字母，比如A表示集合，并用花括号”{}”展现。里面的元素常用小写拉丁字母，比如a。例如：<br>$A=\lbrace 1,2,3,4\rbrace$</p><blockquote><p>那么知道了集合的含义，对集合的整体有了认识之后，我们接下来就对集合中包含的元素进行分析，那集合中包含的元素有什么特点呢？</p></blockquote><h2 id="集合中元素的三个特点"><a href="#集合中元素的三个特点" class="headerlink" title="集合中元素的三个特点"></a>集合中元素的三个特点</h2><ul><li><strong>确定性</strong><br>比如世界上最长的河流，全国最高的大楼，这些都是确定的。</li><li><strong>互异性</strong><br>比如：由happy的字母组成的集合$\lbrace h,a,p,y\rbrace$</li><li><strong>无序性</strong><br>比如:$\lbrace a,b,c\rbrace$和$\lbrace a,c,b\rbrace$表示同一个集合</li></ul><blockquote><p><strong>做一做</strong><br>下列四组对象，能构成集合的是()<br>A 某班所有高个子的学生<br>B 著名的艺术家<br>C 一切很大的书<br>D 倒数等于它自身的实数</p></blockquote><h2 id="集合的表示方法"><a href="#集合的表示方法" class="headerlink" title="集合的表示方法"></a>集合的表示方法</h2><ul><li><strong>自然语言法</strong>：用文字叙述的形式来描述集合<br>{不是等边三角形的三角形}</li><li><strong>列举法</strong>：把集合中的元素一一列举出来，写在大括号内表示集合。<br>{1， 2， 3， 4}</li><li><strong>描述法</strong>：{x|x具有的性质}，其中x为集合的代表元素。<br>$\lbrace x\in R| x-3&gt;2\rbrace$</li><li><strong>Venn图</strong></li></ul><blockquote><p><strong>做一做</strong><br>用列举法表示集合$\lbrace x|x^2-2x+1=0\rbrace$为(  )<br>A. {1, 1}<br>B. {1}<br>C. {x=1}<br>D. $\lbrace x^2-2x+1=0 \rbrace$</p></blockquote><p><strong>祝同学们学习进步，学业有成</strong></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 学习 </tag>
+            
+            <tag> 集合 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>A=x+y+z</title>
+      <link href="/2018/08/09/xue-xi/a-x-y-z/"/>
+      <url>/2018/08/09/xue-xi/a-x-y-z/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>今天的标题可能会让很多同学感到迷惑，这是啥子意思哦？其实这个公式是物理学家爱因斯坦给出的一个成功的式子。据说有一个爱说废话而不用功的年轻人，整天缠着爱因斯坦询问成功的秘诀。爱因斯坦被问的烦了，就写了如下公式<br>$A=x+y+z$<br>并说：“A代表成功，x代表艰苦的劳动，y代表正确的方法…”<br>“那z代表什么？”年轻人迫不及待的问。<br>“z代表少说废话。”<br>虽然这是一个故事，但我们不难看出正确方法的重要性。</p></blockquote><p>很多同学和老师沟通的时候反应学习数学比较吃力和困难，对于一些知识和定理也是一知半解，特别是做题目的时候更感觉无从下手。要么是有些题目，看着比较熟悉，自己感觉以前也做过，但是就是想不起来怎么去做；要么是有的题目看着一脸懵，不知道如何下手；要么有些题目本来自己会做，但是结果和自己想的不一样。特别是有的同学初中数学知识打的不牢固，学习高中数学知识就会显得更加吃力。所以学好高中数学，不光需要勤奋努力，更需要恰当的方法。今天老师和大家交流分享一下高中数学的学习方法。</p><h2 id="巩固复习"><a href="#巩固复习" class="headerlink" title="巩固复习"></a>巩固复习</h2><p>先看笔记后做作业。 有的高中学生感到。老师讲过的，自己已经听得明明白白了。但是，为什么自己一做题就困难重重了呢？其原因在于，学生对教师所讲的内容的理解，还没能达到教师所要求的层次。</p><p>因此，每天在做作业之前，一定要把课本的有关内容和当天的课堂笔记先看一看。能否坚持如此，常常是好学生与差学生的最大区别。尤其练习题不太配套时，作业中往往没有老师刚刚讲过的题目类型，因此不能对比消化。如果自己又不注意对此落实，天长日久，就会造成极大损失。</p><h2 id="反思总结"><a href="#反思总结" class="headerlink" title="反思总结"></a>反思总结</h2><p>做题之后加强反思。 学生一定要明确，现在正坐着的题，一定不是考试的题目。而是要运用现在正做着的题目的解题思路与方法。因此，要把自己做过的每道题加以反思。总结一下自己的收获。要总结出，这是一道什么内容的题，用的是什么方法。做到知识成片，问题成串，日久天长，构建起一个内容与方法的科学的网络系统。</p><p>主动复习总结提高。 进行章节总结是非常重要的。初中时是教师替学生做总结，做得细致，深刻，完整。高中是自己给自己做总结，老师不但不给做，而且是讲到哪，考到哪，不留复习时间，也没有明确指出做总结的时间。</p><h2 id="注重积累"><a href="#注重积累" class="headerlink" title="注重积累"></a>注重积累</h2><p>积累资料随时整理。 要<strong>注意积累复习资料</strong>。把课堂笔记，练习，单元测试，各种试卷，都分门别类按时间顺序整理好。每读一次，就在上面标记出自己下次阅读时的重点内容。这样，复习资料才能越读越精，一目了然。</p><h2 id="广泛阅读"><a href="#广泛阅读" class="headerlink" title="广泛阅读"></a>广泛阅读</h2><p>精挑慎选课外读物。 初中学生学数学，如果不注意看课外读物，一般地说，不会有什么影响。高中则不大相同。高中数学考的是学生解决新题的能力。作为一名高中生，如果只是围着自己的老师转，不论老师的水平有多高，必然都会存在着很大的局限性。</p><p>因此，要想学好数学，必须打开一扇门，看看外面的世界。当然，也不要自立门户，另起炉灶。一旦脱离校内教学和自己的老师的教学体系，也必将事半功倍。</p><h2 id="发挥主动性"><a href="#发挥主动性" class="headerlink" title="发挥主动性"></a>发挥主动性</h2><p>配合老师主动学习。 高中学生学习主动性要强。小学生，常常是完成作业就尽情的欢乐。初中生基本也是如此，听话的孩子就能学习好。高中则不然，作业虽多，但是只知道做作业就绝对不够；老师的话也不少，但是谁该干些什么了，老师并不一一具体指明。</p><p>因此，高中学生必须<strong>提高自己的学习主动性</strong>。准备向将来的大学生的学习方法过渡。</p><h2 id="合理规划"><a href="#合理规划" class="headerlink" title="合理规划"></a>合理规划</h2><p>合理规划步步为营。 高中的学习是非常紧张的。每个学生都要投入自己的几乎全部的精力。要想能迅速进步，就要给自己制定一个较长远的切实可行的学习目标和计划，详细的安排好自己的零星时间，并及时作出合理的微量调整。</p><p><strong><big>相信同学们只要勤奋学习，加上正确的方法，同时持之以恒，一定能取得优异的成绩。</big></strong></p><p>来源：</p><p><a href="https://www.zybang.com/question/8c1dd997a6531908205e7d63e26d1967.html" target="_blank" rel="noopener">https://www.zybang.com/question/8c1dd997a6531908205e7d63e26d1967.html</a><br><a href="https://jingyan.baidu.com/article/fec7a1e534046c1190b4e7d8.html" target="_blank" rel="noopener">https://jingyan.baidu.com/article/fec7a1e534046c1190b4e7d8.html</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 学习 </tag>
+            
+            <tag> 思想 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>空间中点到面的距离-向量法</title>
+      <link href="/2018/08/08/xiang-liang-fa/kong-jian-zhong-dian-dao-mian-de-ju-chi-xiang-liang-fa/"/>
+      <url>/2018/08/08/xiang-liang-fa/kong-jian-zhong-dian-dao-mian-de-ju-chi-xiang-liang-fa/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。从今天开始，我会依次将这八种类型用<strong><big><font color="red">向量法</font></big></strong>进行详细讲解。今天在视频中和大家分享：如何用向量法求<strong><big><font color="red">点到面的距离</font></big></strong></p></blockquote><p><strong><big><font color="red">平面法向量的求法：</font></big></strong><br>（1）设出平面的法向量为$\vec{n}=(x,y,z)$<br>（2）求出平面内的两个不共线的向量的坐标$\vec{a}=(a_1,a_2,a_3),\vec{b}=(b_1,b_2,b_3)$<br>（3）根据法向量的定义建立关于x,y,z的方程组<br><img src="https://s1.ax1x.com/2020/03/31/GQjTED.png" alt><br>（4）解方程组，取其中的一个解，即取法向量<br><strong><big><font color="red">注</font></big></strong>：由于一个平面的法向量有无数个，故可在带入方程的解中取一个最简单的作为平面的法向量<br><img src="https://s1.ax1x.com/2020/04/01/G1S5cj.png" alt><br><img src="https://s1.ax1x.com/2020/04/01/G1S7Bq.png" alt></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28983772&bvid=BV1Zs411M7k8&cid=50269400&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 向量法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 向量法 </tag>
+            
+            <tag> 点到面的距离 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>二面角-向量法</title>
+      <link href="/2018/08/07/xiang-liang-fa/er-mian-jiao-xiang-liang-fa/"/>
+      <url>/2018/08/07/xiang-liang-fa/er-mian-jiao-xiang-liang-fa/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。从今天开始，我会依次将这八种类型用<strong><big><font color="red">向量法</font></big></strong>进行详细讲解。今天在视频中和大家分享：如何用向量法求<strong><big><font color="red">二面角</font></big></strong></p></blockquote><p><strong><big><font color="red">平面法向量的求法：</font></big></strong><br>（1）设出平面的法向量为$\vec{n}=(x,y,z)$<br>（2）求出平面内的两个不共线的向量的坐标$\vec{a}=(a_1,a_2,a_3),\vec{b}=(b_1,b_2,b_3)$<br>（3）根据法向量的定义建立关于x,y,z的方程组<br><img src="https://s1.ax1x.com/2020/03/31/GQjTED.png" alt><br>（4）解方程组，取其中的一个解，即取法向量<br><strong><big><font color="red">注</font></big></strong>：由于一个平面的法向量有无数个，故可在带入方程的解中取一个最简单的作为平面的法向量<br><img src="https://s1.ax1x.com/2020/04/01/Glz7FO.png" alt><br><img src="https://s1.ax1x.com/2020/04/01/G1SFpQ.png" alt></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28901359&bvid=BV1hs411M7WK&cid=50112297&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 向量法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 向量法 </tag>
+            
+            <tag> 二面角 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>证明面面垂直-向量法</title>
       <link href="/2018/08/06/xiang-liang-fa/zheng-ming-mian-mian-chui-zhi-xiang-liang-fa/"/>
       <url>/2018/08/06/xiang-liang-fa/zheng-ming-mian-mian-chui-zhi-xiang-liang-fa/</url>
@@ -22,9 +138,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 面面垂直 </tag>
-            
             <tag> 向量法 </tag>
+            
+            <tag> 面面垂直 </tag>
             
         </tags>
       
@@ -80,9 +196,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 线面角 </tag>
-            
             <tag> 向量法 </tag>
+            
+            <tag> 线面角 </tag>
             
         </tags>
       
@@ -109,9 +225,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 线面垂直 </tag>
-            
             <tag> 向量法 </tag>
+            
+            <tag> 线面垂直 </tag>
             
         </tags>
       
@@ -138,9 +254,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 线面平行 </tag>
-            
             <tag> 向量法 </tag>
+            
+            <tag> 线面平行 </tag>
             
         </tags>
       
@@ -167,9 +283,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 异面直线 </tag>
-            
             <tag> 向量法 </tag>
+            
+            <tag> 异面直线 </tag>
             
         </tags>
       
@@ -225,9 +341,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 二面角 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -254,9 +370,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 线面角 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -283,9 +399,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 异面直线 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -341,9 +457,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 面面平行 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -399,9 +515,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 线面垂直 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -428,9 +544,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 线面垂直 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -457,9 +573,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 面面平行 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -486,9 +602,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 线面平行 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -515,9 +631,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 线面平行 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -627,9 +743,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 五种模型 </tag>
-            
             <tag> 数列 </tag>
+            
+            <tag> 五种模型 </tag>
             
         </tags>
       
@@ -656,9 +772,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 五种模型 </tag>
-            
             <tag> 数列 </tag>
+            
+            <tag> 五种模型 </tag>
             
         </tags>
       
@@ -685,9 +801,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 五种模型 </tag>
-            
             <tag> 数列 </tag>
+            
+            <tag> 五种模型 </tag>
             
         </tags>
       
@@ -714,9 +830,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 五种模型 </tag>
-            
             <tag> 数列 </tag>
+            
+            <tag> 五种模型 </tag>
             
         </tags>
       
@@ -743,9 +859,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 五种模型 </tag>
-            
             <tag> 数列 </tag>
+            
+            <tag> 五种模型 </tag>
             
         </tags>
       
@@ -772,9 +888,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 五种模型 </tag>
-            
             <tag> 数列 </tag>
+            
+            <tag> 五种模型 </tag>
             
         </tags>
       
@@ -1120,9 +1236,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 通项公式 </tag>
-            
             <tag> 等比数列 </tag>
+            
+            <tag> 通项公式 </tag>
             
         </tags>
       
