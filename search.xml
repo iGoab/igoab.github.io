@@ -4,6 +4,93 @@
   
     
     <entry>
+      <title>证明面面垂直-向量法</title>
+      <link href="/2018/08/06/xiang-liang-fa/zheng-ming-mian-mian-chui-zhi-xiang-liang-fa/"/>
+      <url>/2018/08/06/xiang-liang-fa/zheng-ming-mian-mian-chui-zhi-xiang-liang-fa/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。从今天开始，我会依次将这八种类型用<strong><big><font color="red">向量法</font></big></strong>进行详细讲解。今天在视频中和大家分享：如何用向量法求<strong><big><font color="red">线面垂直</font></big></strong></p></blockquote><p><strong><big><font color="red">平面法向量的求法：</font></big></strong><br>（1）设出平面的法向量为$\vec{n}=(x,y,z)$<br>（2）求出平面内的两个不共线的向量的坐标$\vec{a}=(a_1,a_2,a_3),\vec{b}=(b_1,b_2,b_3)$<br>（3）根据法向量的定义建立关于x,y,z的方程组<br><img src="https://s1.ax1x.com/2020/03/31/GQjTED.png" alt><br>（4）解方程组，取其中的一个解，即取法向量<br><strong><big><font color="red">注</font></big></strong>：由于一个平面的法向量有无数个，故可在带入方程的解中取一个最简单的作为平面的法向量<br><strong><big><font color="red">线面垂直$\Longleftrightarrow$线的方向向量与面的法向量平行</font></big></strong></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28562003&bvid=BV13s411G7TK&cid=49442895&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 向量法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 向量法 </tag>
+            
+            <tag> 线面垂直 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>证明面面平行-向量法</title>
+      <link href="/2018/08/05/xiang-liang-fa/zheng-ming-mian-mian-ping-xing-xiang-liang-fa/"/>
+      <url>/2018/08/05/xiang-liang-fa/zheng-ming-mian-mian-ping-xing-xiang-liang-fa/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。从今天开始，我会依次将这八种类型用<strong><big><font color="red">向量法</font></big></strong>进行详细讲解。今天在视频中和大家分享：如何用向量法求<strong><big><font color="red">面面平行</font></big></strong></p></blockquote><p><strong><big><font color="red">平面法向量的求法：</font></big></strong><br>（1）设出平面的法向量为$\vec{n}=(x,y,z)$<br>（2）求出平面内的两个不共线的向量的坐标$\vec{a}=(a_1,a_2,a_3),\vec{b}=(b_1,b_2,b_3)$<br>（3）根据法向量的定义建立关于x,y,z的方程组<br><img src="https://s1.ax1x.com/2020/03/31/GQjTED.png" alt><br>（4）解方程组，取其中的一个解，即取法向量<br><strong><big><font color="red">注</font></big></strong>：由于一个平面的法向量有无数个，故可在带入方程的解中取一个最简单的作为平面的法向量</p><p><strong><big><font color="red">面面平行$\Longleftrightarrow$两个面的法向量互相平行</font></big></strong></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28726604&bvid=BV1Js411g7v6&cid=49761906&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 向量法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 向量法 </tag>
+            
+            <tag> 面面平行 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>线面角-向量法</title>
+      <link href="/2018/08/04/xiang-liang-fa/xian-mian-jiao-xiang-liang-fa/"/>
+      <url>/2018/08/04/xiang-liang-fa/xian-mian-jiao-xiang-liang-fa/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>在考试中，<strong><big><font color="red">立体几何</font></big></strong>作为<strong><big><font color="red">必考题目</font></big></strong>，解决方法有<strong><big><font color="red">几何法</font></big></strong>和<strong><big><font color="red">向量法</font></big></strong>两种不同的解法，在考试中主要考查的也<strong><big><font color="red">仅有八种类型</font></big></strong>的题目，只要我们将这八种类型全部掌握，就会发现立体几何的题目原来如此简单，竟可以在几分钟之内快速解出来。从今天开始，我会依次将这八种类型用<strong><big><font color="red">向量法</font></big></strong>进行详细讲解。今天在视频中和大家分享：如何用向量法求<strong><big><font color="red">线面角</font></big></strong></p></blockquote><p><strong><big><font color="red">平面法向量的求法：</font></big></strong><br>（1）设出平面的法向量为$\vec{n}=(x,y,z)$<br>（2）求出平面内的两个不共线的向量的坐标$\vec{a}=(a_1,a_2,a_3),\vec{b}=(b_1,b_2,b_3)$<br>（3）根据法向量的定义建立关于x,y,z的方程组<br><img src="https://s1.ax1x.com/2020/03/31/GQjTED.png" alt><br>（4）解方程组，取其中的一个解，即取法向量<br><strong><big><font color="red">注</font></big></strong>：由于一个平面的法向量有无数个，故可在带入方程的解中取一个最简单的作为平面的法向量</p><p><img src="https://s1.ax1x.com/2020/04/01/Glb7BF.png" alt></p><div align="center"><br><br><br><iframe height="500px" width="100%" src="//player.bilibili.com/player.html?aid=28642441&bvid=BV1As411g7Ar&cid=49598276&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe><br>    <br>    <br></div><blockquote><p><strong><big><font color="red">大家课后按照今天的讲解把视频中的练习题做出来，加油！！</font></big>如有问题请留言，希望大家多多分享，多多转发，谢谢大家</strong>。</p></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> 向量法 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 高中数学 </tag>
+            
+            <tag> 向量法 </tag>
+            
+            <tag> 线面角 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>证明线面垂直-向量法</title>
       <link href="/2018/08/03/xiang-liang-fa/zheng-ming-xian-mian-chui-zhi-xiang-liang-fa/"/>
       <url>/2018/08/03/xiang-liang-fa/zheng-ming-xian-mian-chui-zhi-xiang-liang-fa/</url>
@@ -22,9 +109,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 线面垂直 </tag>
-            
             <tag> 向量法 </tag>
+            
+            <tag> 线面垂直 </tag>
             
         </tags>
       
@@ -51,9 +138,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 线面平行 </tag>
-            
             <tag> 向量法 </tag>
+            
+            <tag> 线面平行 </tag>
             
         </tags>
       
@@ -80,9 +167,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 异面直线 </tag>
-            
             <tag> 向量法 </tag>
+            
+            <tag> 异面直线 </tag>
             
         </tags>
       
@@ -196,9 +283,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 异面直线 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -312,9 +399,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 线面垂直 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
@@ -341,9 +428,9 @@
             
             <tag> 高中数学 </tag>
             
-            <tag> 几何法 </tag>
-            
             <tag> 线面垂直 </tag>
+            
+            <tag> 几何法 </tag>
             
         </tags>
       
